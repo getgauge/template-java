@@ -1,3 +1,3 @@
-# Temaplte Java
+# Template Java
 
 java template for gauge
